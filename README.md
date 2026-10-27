@@ -1,12 +1,9 @@
-# Hi there! 👋 I'm Erko
+<a href="https://erkokaar.com"><img src="assets/hero.svg" width="100%" alt="Erko Käär. I design and build websites."></a>
 
-🎓 Graduate in Informatics | Curious builder exploring AI & software 
+Side projects, each with a live demo:
 
-## 📌 Projects
-- [Dashboard](https://github.com/ErkoKaar/Dashboard) - Personal dashboard aggregating finance, tasks, habits, and more from multiple apps into one drag-to-reorder view with an AI-generated daily summary — built with Next.js and Supabase.
-- [TaskZen](https://github.com/ErkoKaar/TaskZen) - PWA focus timer + task/habit manager with synced sessions and Web Push reminders — built with Next.js and Supabase.
-- [FinanceTracker](https://github.com/ErkoKaar/FinanceTracker) - PWA finance tracker with automated recurring expenses/income, monthly budgets, and Web Push reminders — built with React, Supabase, and TanStack Router/Query
+- **[Dashboard](https://erko-dashboard-demo.vercel.app)**: my day in one view, from tasks and habits to finance and live basketball stats.
+- **[TaskZen](https://taskzen-demo.vercel.app)**: tasks, projects and habits in an installable PWA.
+- **[FinanceTracker](https://financetracker-live-demo.vercel.app)**: what came in, what went out and what's left this month.
 
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/erkokaar-dev)
+<a href="https://erkokaar.com"><img src="assets/btn-site.svg" height="44" alt="erkokaar.com"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/erkokaar-dev"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
